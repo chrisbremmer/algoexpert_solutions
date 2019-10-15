@@ -1,7 +1,7 @@
 // Add, edit, or remove tests in this file.
 // Treat it as your playground!
 
-const program = require("./program");
+const program = require("../solution/program");
 const chai = require("chai");
 
 it("Test Case #1", function() {
